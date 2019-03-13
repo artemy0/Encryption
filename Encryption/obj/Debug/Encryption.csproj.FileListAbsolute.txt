@@ -1,0 +1,14 @@
+D:\IBA\Encryption\Encryption\Encryption\bin\Debug\Encryption.exe.config
+D:\IBA\Encryption\Encryption\Encryption\bin\Debug\Encryption.exe
+D:\IBA\Encryption\Encryption\Encryption\bin\Debug\Encryption.pdb
+D:\IBA\Encryption\Encryption\Encryption\obj\Debug\Encryption.csprojAssemblyReference.cache
+D:\IBA\Encryption\Encryption\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+D:\IBA\Encryption\Encryption\Encryption\obj\Debug\Encryption.exe
+D:\IBA\Encryption\Encryption\Encryption\obj\Debug\Encryption.pdb
+C:\Users\Artsem\OneDrive\Рабочий стол\Encryption\Encryption\bin\Debug\Encryption.exe.config
+C:\Users\Artsem\OneDrive\Рабочий стол\Encryption\Encryption\bin\Debug\Encryption.exe
+C:\Users\Artsem\OneDrive\Рабочий стол\Encryption\Encryption\bin\Debug\Encryption.pdb
+C:\Users\Artsem\OneDrive\Рабочий стол\Encryption\Encryption\obj\Debug\Encryption.csprojAssemblyReference.cache
+C:\Users\Artsem\OneDrive\Рабочий стол\Encryption\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Artsem\OneDrive\Рабочий стол\Encryption\Encryption\obj\Debug\Encryption.exe
+C:\Users\Artsem\OneDrive\Рабочий стол\Encryption\Encryption\obj\Debug\Encryption.pdb
